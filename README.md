@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Akshat</h1>
 
 <!--
 **shloknangia/shloknangia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
